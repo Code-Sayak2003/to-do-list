@@ -1,8 +1,9 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p>In this repository, I have created a react to-do-list allowing task addition, removal, and completion marking, validate task input, display tasks dynamically, and offer optional sorting, filtering, and localStorage integration</p>
+<br>
+<h2>Testing guidance</h2><br>
+<ol>
+  <li>Clone the repository using git clone <repo_url>.</li>
+  <li>Open the terminal and run npm install, to install all the dependencies.</li>
+  <li>Now run the code on local host using the command: npm run dev</li>
+  <li>You can test various features by adding a task, removing a task, for marking complete you can click on the task and it will be strike-through, you can also filter the task by three tags - all, completed and incomplete etc.</li>
+</ol>
